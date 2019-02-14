@@ -1,2 +1,1 @@
-# abclearn-batch002
-Some description
+See Issues for practice session questions
